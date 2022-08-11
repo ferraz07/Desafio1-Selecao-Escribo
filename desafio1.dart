@@ -1,4 +1,4 @@
-import 'dart:io'; //biblioteca importada para utilizar a funcao de receber dados do teclado
+import 'dart:io'; //biblioteca importada para utilizar a funcao de receber dados do teclado (stdin.readLineSync())
 
 
 void main () {
